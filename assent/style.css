@@ -1,9 +1,156 @@
 body{
+    background-color: #e3e2dd;
+    font-family: Poppins, sans-serif;
     justify-content: center;
     text-align: center;
-    background-color: #e3e2dd;
-    font-family: 'Poppins', sans-serif;
+   
 }
+
+
+.animal1{
+    background-color: #424242;
+    margin-right: 15%;
+    height: 430px;
+    width: 400px;
+    border-radius: 10%;
+    padding: 20px;
+}
+h2{
+    color: #e3e2dd;
+}
+p{
+    color: #e3e2dd;
+}
+.animal2{
+    background-color: #424242;
+    height: 430px;
+    width: 400px;
+    border-radius: 40px;
+}
+
+.animal3{
+    background-color: #424242;
+    margin-right: 15%;
+    height: 430px;
+    width: 400px;
+    border-radius: 10%;
+}
+
+.animal4{
+    background-color: #424242;
+    height: 430px;
+    width: 400px;
+    border-radius: 10%;
+
+}
+nav{
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.cont1{
+    display: flex;
+    margin-bottom: 60px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.cont2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    padding-left: 100px;
+    margin-right: 100px;
+
+}
+.buzo{
+    width: 300px;
+    height: 300px;
+}
+.remera{
+    width: 300px;
+    height: 300px;
+}
+.pantalon{
+    width: 300px;
+    height: 300px;
+}
+.bermuda{
+    width: 300px;
+    height: 300px;
+}
+header{
+    text-align: center;
+}
+.logo{
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 10px;
+    left: 70px;
+}
+.logo2{
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    right: 150px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.activa{
+    margin-right: 30px;
+}
+.activa2{
+    margin-right: 30px;
+}
+.activa3{
+    margin-right: 30px;
+}
+.fundador{
+    width: 250px;
+    height: 300px;
+}
+.protectora{
+    margin-top: 30px;
+    width: 250px;
+    height: 250px;
+}
+.acerca1{
+    background-color: #424242;
+    margin-right: 10%;
+    margin-left: 80px;
+    height: 350px;
+    width: 600px;
+    padding: 20px;
+}
+.acerca2{
+    background-color: #424242;
+    height: 430px;
+    width: 400px;
+    border-radius: 40px;
+}
+.acerca3{
+    background-color: #424242;
+    margin-right: 10%;
+    height: 430px;
+    width: 400px;
+    border-radius: 10%;
+
+}
+.acerca4{
+    background-color: #424242;
+    height: 350px;
+    width: 600px;
+    padding: 20px;
+}
+
+
 
 a{
     margin-right: 30px;
@@ -41,3 +188,6 @@ footer{
     right: 70px;
 }
 
+.contacto_parrafo{
+    color: black;
+}
